@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/website-parapperi/static/css/main.e2a173c2.chunk.css",
+    "main.js": "/website-parapperi/static/js/main.e5f492f5.chunk.js",
+    "main.js.map": "/website-parapperi/static/js/main.e5f492f5.chunk.js.map",
+    "runtime-main.js": "/website-parapperi/static/js/runtime-main.db5c4736.js",
+    "runtime-main.js.map": "/website-parapperi/static/js/runtime-main.db5c4736.js.map",
+    "static/js/2.9e2b78b5.chunk.js": "/website-parapperi/static/js/2.9e2b78b5.chunk.js",
+    "static/js/2.9e2b78b5.chunk.js.map": "/website-parapperi/static/js/2.9e2b78b5.chunk.js.map",
+    "index.html": "/website-parapperi/index.html",
+    "precache-manifest.4923f81730291cd93cd61cf11ca7465b.js": "/website-parapperi/precache-manifest.4923f81730291cd93cd61cf11ca7465b.js",
+    "service-worker.js": "/website-parapperi/service-worker.js",
+    "static/css/main.e2a173c2.chunk.css.map": "/website-parapperi/static/css/main.e2a173c2.chunk.css.map",
+    "static/js/2.9e2b78b5.chunk.js.LICENSE.txt": "/website-parapperi/static/js/2.9e2b78b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db5c4736.js",
+    "static/js/2.9e2b78b5.chunk.js",
+    "static/css/main.e2a173c2.chunk.css",
+    "static/js/main.e5f492f5.chunk.js"
+  ]
+}
